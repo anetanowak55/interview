@@ -1,0 +1,7 @@
+com\ggf\training_platform\model\Course.class
+com\ggf\training_platform\service\CourseService.class
+com\ggf\training_platform\controller\CourseController.class
+com\ggf\training_platform\TrainingPlatformApplication.class
+com\ggf\training_platform\service\CourseServiceImpl.class
+com\ggf\training_platform\repo\CourseRepository.class
+com\ggf\training_platform\config\SecurityConfig.class
